@@ -1,18 +1,23 @@
-💳 Credit Card Transactions Analysis (India)
+💳 **Credit Card Transactions Analysis (India)**
+
 This SQL project analyzes credit card transactions across various cities and card types in India. The analysis focuses on user spending patterns, trends across expense types, and interesting business questions.
 
-📦 Dataset
+📦 **Dataset**
 Source: Kaggle Dataset
 
-Columns cleaned: lowercase + spaces replaced with underscores
-Imported into SQL Server table: credit_card_transcations
-🛠 Tools
+🛠 **Tools**
+
 SQL Server
-GitHub for version control
-🧹 Data Preparation
+
+🧹 **Data Preparation**
+
 Removed nulls and cleaned column names
 Converted data types appropriately (e.g., amount to FLOAT, date to DATETIME)
-📊 Key Business Questions Solved
+Columns cleaned: lowercase + spaces replaced with underscores
+Imported into SQL Server table: credit_card_transcations
+
+📊 **Key Business Questions Solved**
+
 #	Question
 1	Top 5 cities with highest spends and % contribution
 2	Highest spend month for each card type
@@ -25,7 +30,7 @@ Converted data types appropriately (e.g., amount to FLOAT, date to DATETIME)
 9	City that reached 500th transaction fastest
 All solutions are available in Credit Card Transaction Casestudy-1.sql.
 
-📈 Summary of Findings
+📈 **Summary of Findings**
 Mumbai contributes the most to total credit card spends.
 Fuel is the most common expense type.
 Platinum cards saw the highest growth in Jan 2014.
