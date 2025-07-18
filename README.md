@@ -36,12 +36,17 @@ SQL Server
 | 9 | City that reached 500th transaction fastest |
 
 
-All solutions are available in credit_card_transactions.sql
+All solutions are available in [credit_card_transactions.sql](credit_card_transactions.sql)
+
 
 #  📈 **Summary of Findings**
 
-Mumbai contributes the most to total credit card spends.
-Fuel is the most common expense type.
-Platinum cards saw the highest growth in Jan 2014.
-Delhi has the highest weekend spend efficiency.
-Chennai reached 500 transactions the fastest after first txn.
+-Mumbai contributes the most to total credit card spends.
+
+-Fuel is the most common expense type.
+
+-Platinum cards saw the highest growth in Jan 2014.
+
+-Delhi has the highest weekend spend efficiency.
+
+-Chennai reached 500 transactions the fastest after first txn.
